@@ -105,6 +105,7 @@ Para criar uma página é necessário apenas entra na página do Github (https:/
 
 https://user-images.githubusercontent.com/82068739/115154561-d918ac00-a051-11eb-9977-07cd7d9a9353.mp4
 
+![gif](https://github.com/alvesfukumasa/C-pia-do-trabalho/blob/main/%F0%9F%93%82%20Curso%20GIT%20e%20GITHUB%20-%20Personalizando%20o%20README.md%20com%20markdown%20(inserir%20gif%2C%20v%C3%ADdeo%2C%20etc)%20-%20YouTube.gif)
 
 
 
