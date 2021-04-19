@@ -97,15 +97,6 @@ Com essa função é possível introduzir branches ao projeto principal.
 https://user-images.githubusercontent.com/82068739/115154246-3ad81680-a050-11eb-9692-713642e719b3.mp4
 
 
-# `6. Como criar um site no Github`
-
-O Github permite hospedar site estáticos. É possível criar um site a partir de um repositório.
-Para criar uma página é necessário apenas entra na página do Github (https://github.com/) e criar um nome de usuário, email e senha. 
-
-
-![gif](https://github.com/alvesfukumasa/C-pia-do-trabalho/blob/main/%F0%9F%93%82%20Curso%20GIT%20e%20GITHUB%20-%20Personalizando%20o%20README.md%20com%20markdown%20(inserir%20gif%2C%20v%C3%ADdeo%2C%20etc)%20-%20YouTube.gif)
-
-
 
 # Interessantes
 
